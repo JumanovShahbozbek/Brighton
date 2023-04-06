@@ -353,7 +353,6 @@
       </div>
     </div>
   </section>
-
   <!-- end offer section -->
 
 @endsection
